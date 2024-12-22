@@ -11,6 +11,7 @@ This project uses DeepFace and OpenCV to create a real-time application that:
 🛠️ Tech Stack
 
 Programming Language: Python
+
 Libraries: DeepFace, OpenCV, TensorFlow, NumPy, Pandas
 
 🖼️ Sample Output
